@@ -11,7 +11,7 @@ env:
   ###############################################
   DOCKER_IMAGE_NAME: jurzila-azure-ttt
   AZURE_WEBAPP_NAME: jurzila-ttt-app
-  ###############################################
+
 
 
 jobs:
